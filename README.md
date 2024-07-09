@@ -21,5 +21,6 @@ Squamous cell carcinoma
 Vascular lesion
 
 **Final model accuracy:**
+
 ![image](https://github.com/sarvanivvss/Melanoma_detection_CNN/assets/152776519/7519dc87-b616-4c32-9ee3-fa6a22b46907)
 
